@@ -8,7 +8,7 @@
 + This zip contains PALMS_POPS Sea Salt VolFrac during ATom2-4 with 1-min time resolution.
 + For SeaSalt NumFraction, please refer to https://espo.nasa.gov/atom/archive/browse/atom/DC8/PALMS
 
-## For Other ATom data
+## For other ATom data
 + MMS: https://espo.nasa.gov/atom/archive/browse/atom/DC8/MMS-1HZ
 + Categorized by each instrument: https://espo.nasa.gov/atom/instruments
 + Merged datasets: https://espoarchive.nasa.gov/archive/browse/atom
